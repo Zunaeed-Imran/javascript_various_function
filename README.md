@@ -13,8 +13,8 @@
 2. json function use witharray in javascript
 
 #### Note some basic thing
-- `()` is called Parentheses.
-- `{}` is called Curly Brackets.
-- `[]` is called Square Brackets.
-- `(value)` in parenthesis value is called parameter.
-- 
+- `()` is called <b>Parentheses</b>.
+- `{}` is called <b>Curly Brackets</b>.
+- `[]` is called <b>Square Brackets</b>.
+- `(value_a, value_b )` in parenthesis value is called <b>parameter</b>.
+- `(5, 6)` the parameter value is called <b>arguments</b>.
