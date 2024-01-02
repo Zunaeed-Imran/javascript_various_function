@@ -16,3 +16,5 @@
 - `()` is called Parentheses.
 - `{}` is called Curly Brackets.
 - `[]` is called Square Brackets.
+- `(value)` in parenthesis value is called parameter.
+- 
