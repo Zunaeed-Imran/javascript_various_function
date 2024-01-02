@@ -18,3 +18,4 @@
 - `[]` is called <b>Square Brackets</b>.
 - `(value_a, value_b )` in parenthesis value is called <b>parameter</b>.
 - `(5, 6)` the parameter value is called <b>arguments</b>.
+- "Invoking" or invocation mean when we calling the function.
