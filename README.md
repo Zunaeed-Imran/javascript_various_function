@@ -11,3 +11,8 @@
   and convert it into a JavaScript object.
 
 2. json function use witharray in javascript
+
+#### Note some basic thing
+- `()` is called Parentheses.
+- `{}` is called Curly Brackets.
+- `[]` is called Square Brackets.
